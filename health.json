@@ -1,0 +1,263 @@
+{
+   "metaData":{
+      "creationDate":1637686374767.918,
+      "profileName":"output20211123115241",
+      "version":"1.0.0",
+      "type":" "
+   },
+   "userData":{
+      "biologicalSex":1
+   },
+   "HKQuantityTypeIdentifierDietaryManganese":[
+      
+   ],
+   "HKQuantityTypeIdentifierElectrodermalActivity":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryMagnesium":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietarySelenium":[
+      
+   ],
+   "HKQuantityTypeIdentifierBodyTemperature":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryFatSaturated":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryCopper":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryPotassium":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryVitaminK":[
+      
+   ],
+   "HKQuantityTypeIdentifierBodyFatPercentage":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryCalcium":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryIodine":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryFatMonounsaturated":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryPantothenicAcid":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryThiamin":[
+      
+   ],
+   "HKQuantityTypeIdentifierStepCount":[
+      {
+         "sdate":1637682796195.753,
+         "value":11,
+         "unit":"count",
+         "source":"iPhone",
+         "edate":1637682798740.808
+      }
+   ],
+   "HKQuantityTypeIdentifierPeripheralPerfusionIndex":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryFolate":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryCholesterol":[
+      
+   ],
+   "HKQuantityTypeIdentifierDistanceWalkingRunning":[
+      {
+         "sdate":1637682796195.753,
+         "value":0.004784558180198536,
+         "unit":"mi",
+         "source":"iPhone",
+         "edate":1637682798740.808
+      }
+   ],
+   "HKQuantityTypeIdentifierBasalEnergyBurned":[
+      
+   ],
+   "HKQuantityTypeIdentifierBodyMassIndex":[
+      
+   ],
+   "HKQuantityTypeIdentifierHeight":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryWater":[
+      
+   ],
+   "HKQuantityTypeIdentifierHeartRate":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryVitaminB12":[
+      
+   ],
+   "HKQuantityTypeIdentifierPeakExpiratoryFlowRate":[
+      
+   ],
+   "HKQuantityTypeIdentifierBloodGlucose":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietarySodium":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryEnergyConsumed":[
+      
+   ],
+   "HKQuantityTypeIdentifierWalkingHeartRateAverage":[
+      
+   ],
+   "HKQuantityTypeIdentifierDistanceCycling":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryRiboflavin":[
+      
+   ],
+   "HKQuantityTypeIdentifierBloodAlcoholContent":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryZinc":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietarySugar":[
+      
+   ],
+   "HKQuantityTypeIdentifierBloodPressureSystolic":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryBiotin":[
+      
+   ],
+   "HKQuantityTypeIdentifierRestingHeartRate":[
+      
+   ],
+   "HKQuantityTypeIdentifierBloodPressureDiastolic":[
+      
+   ],
+   "HKQuantityTypeIdentifierLeanBodyMass":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryNiacin":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryChromium":[
+      
+   ],
+   "HKQuantityTypeIdentifierBasalBodyTemperature":[
+      
+   ],
+   "HKQuantityTypeIdentifierOxygenSaturation":[
+      
+   ],
+   "HKQuantityTypeIdentifierRespiratoryRate":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryFiber":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryCarbohydrates":[
+      
+   ],
+   "HKQuantityTypeIdentifierInhalerUsage":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryIron":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryMolybdenum":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryProtein":[
+      
+   ],
+   "HKQuantityTypeIdentifierForcedExpiratoryVolume1":[
+      
+   ],
+   "HKQuantityTypeIdentifierNumberOfTimesFallen":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryFatPolyunsaturated":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryVitaminB6":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryPhosphorus":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryFatTotal":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryChloride":[
+      
+   ],
+   "HKQuantityTypeIdentifierHeartRateVariabilitySDNN":[
+      
+   ],
+   "HKQuantityTypeIdentifierActiveEnergyBurned":[
+      
+   ],
+   "HKQuantityTypeIdentifierFlightsClimbed":[
+      
+   ],
+   "HKQuantityTypeIdentifierForcedVitalCapacity":[
+      
+   ],
+   "HKQuantityTypeIdentifierBodyMass":[
+      
+   ],
+   "HKQuantityTypeIdentifierUVExposure":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryVitaminA":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryCaffeine":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryVitaminC":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryVitaminD":[
+      
+   ],
+   "HKQuantityTypeIdentifierDietaryVitaminE":[
+      
+   ],
+   "HKCategoryTypeIdentifierIntermenstrualBleeding":[
+      
+   ],
+   "HKCategoryTypeIdentifierCervicalMucusQuality":[
+      
+   ],
+   "HKCategoryTypeIdentifierSleepAnalysis":[
+      
+   ],
+   "HKCategoryTypeIdentifierMenstrualFlow":[
+      
+   ],
+   "HKCategoryTypeIdentifierSexualActivity":[
+      
+   ],
+   "HKCategoryTypeIdentifierAppleStandHour":[
+      
+   ],
+   "HKCategoryTypeIdentifierOvulationTestResult":[
+      
+   ],
+   "HKCorrelationTypeIdentifierBloodPressure":[
+      
+   ],
+   "HKCorrelationTypeIdentifierFood":[
+      
+   ],
+   "HKWorkoutTypeIdentifier":[
+      
+   ]
+}
